@@ -11,6 +11,10 @@ import javax.swing.JFrame;
  * @author iektm1-12
  */
 public class MainFrame extends JFrame  {
-    
+
+    Main frame(){
+        super();
+        setSize(300,300);
+    }
     
 }
