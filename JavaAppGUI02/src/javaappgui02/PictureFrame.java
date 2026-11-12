@@ -57,6 +57,12 @@ public class PictureFrame extends JFrame {
         JlbPick.setIcon(imscaled);
         
         
+        
+        
+        
+        
+        
+        
         c.gridx=0;
         c.gridy=0;
         c.anchor = GridBagConstraints.PAGE_START;
